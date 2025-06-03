@@ -20,16 +20,35 @@ h1 {
 }
 .contenedor p {
     background-color: coral;
-    margin-top:20px;
-    padding: 20px;
-}
-.links {
     margin-top: 20px;
     padding: 20px;
-    background-color:darkcyan;
+    line-height:1.5;
+    margin-bottom: 20px;
 }
 .links {
+    background-color: chocolate;
+    padding: 20px;
+    margin: 20px;
+}
+.links a {
     color:blue;
     font-size: 30px;
-    background-color: azure;
+    background-color:azure;
+    display:block;
+    margin-top: 20px;
+}
+footer ul li {
+    display: inline;
+    margin: 10px;
+    background-color: chartreuse;
+}
+a:hover {
+    color:crimson;
+}
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    object-fit: cover;
+
 }
