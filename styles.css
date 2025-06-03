@@ -1,0 +1,21 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+}
+body {
+    background-color: aquamarine;
+}
+h1 {
+    background-color:chartreuse;
+    padding: 30px;
+    margin: 30px;
+}
+.contenedor {
+    background-color: crimson;
+}
+.contenedor p {
+    background-color: coral;
+    padding: 20px;
+    margin: 20px;
+
+}
