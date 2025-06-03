@@ -9,13 +9,17 @@ h1 {
     background-color:chartreuse;
     padding: 30px;
     margin: 30px;
+    font-size:30px;
+    font-style: italic;
+    background-position: center;
+    text-align: center;
 }
 .contenedor {
     background-color: crimson;
+    text-align: justify;
 }
 .contenedor p {
     background-color: coral;
+    margin top:20px;
     padding: 20px;
-    margin: 20px;
-
 }
