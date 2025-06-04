@@ -50,5 +50,57 @@ img {
     height: auto;
     border-radius: 50%;
     object-fit: cover;
-
+}
+nav {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+     sans-serif;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+    background-color:chartreuse;
+    display: inline-block;
+    padding: 15px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+section{
+    padding: 20px;
+    background-color: blueviolet;
+    margin: 30px;
+}
+#inicio {
+    background-color: black;
+}
+#servicio {
+    background-color: blue;
+}
+#contacto {
+    background-color: chocolate;
+}
+#inicio h1 {
+    color: brown;
+    font-size: 30px;
+}
+#nuestroservicios h2 {
+    color: crimson;
+    font-size: 30px;
+}
+#nuestrocontactos h3 {
+    color: blue;
+    font-size: 30px;
+} 
+footer {
+    text-align: center;
+}   
+input,textarea {
+    border-radius: 20px;
+    padding: 10px;
+    display: block;
+    resize: none;
+}
+form button {
+    background-color: gold;
+    color:aqua;
 }
